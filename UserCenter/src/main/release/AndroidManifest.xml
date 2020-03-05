@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chen.usercenter">
+    <application>
+        <activity android:name="com.chen.usercenter.ui.act.RegisterActivity"/>
+        <activity android:name="com.chen.usercenter.ui.act.ForgetPwdActivity"/>
+        <activity android:name="com.chen.usercenter.ui.act.LoginActivity"/>
+        <activity android:name=".ui.act.ResetPwdActivity"/>
+    </application>
+
+</manifest>
